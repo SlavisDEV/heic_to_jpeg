@@ -1,1 +1,1 @@
-heic_to_jpeg plugin scaffold.
+heic_to_jpeg plugin
