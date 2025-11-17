@@ -10,10 +10,10 @@ Pod::Spec.new do |s|
 A Flutter plugin to convert HEIC bytes to JPEG bytes on Android, iOS and Web.
                        DESC
   s.homepage         = 'http://example.com'
-  s.license          = { :file => '../LICENSE' }
+  s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'App Zone' => 'slavis.dev@gmail.com' }
   s.source           = { :path => '.' }
-  s.source_files = 'Classes/**/*'
+  s.source_files = 'ios/Classes/**/*'
   s.dependency 'Flutter'
   s.platform = :ios, '11.0'
 
