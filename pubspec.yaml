@@ -22,4 +22,4 @@ flutter:
         pluginClass: HeicToJpegPlugin
       web:
         pluginClass: HeicToJpegWeb
-        fileName: lib/heic_to_jpeg_web.dart
+        fileName: heic_to_jpeg_web.dart
